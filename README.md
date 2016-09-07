@@ -3,7 +3,7 @@ Tribute Page
 **Tribute Page** is a challenge from Free Code Camp's curriculum: http://www.freecodecamp.com/challenges/build-a-tribute-page
 
 ## Demo
-http://codepen.io/guillermohernandez/pen/obrWrg
+http://guillermohernandez.github.io/Tribute-Page/
 
 ## Contact
 #### Guillermo Hernandez Jr
