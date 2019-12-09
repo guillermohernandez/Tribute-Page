@@ -7,6 +7,5 @@ http://guillermohernandez.github.io/Tribute-Page/
 
 ## Contact
 #### Guillermo Hernandez Jr
-* Homepage: http://memohernandez.com
-* E-mail: guillermohernandez@gmail.com
+* Homepage: https://memohernandez.com
 * Twitter: [@MemoHernandezJr](https://twitter.com/MemoHernandezJr "MemoHernandezJr on Twitter")
